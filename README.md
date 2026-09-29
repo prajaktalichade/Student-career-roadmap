@@ -28,12 +28,9 @@ Career Paths
 * **Data Analyst:** Python, SQL, Excel, Pandas, Power BI
 
 Future Enhancements
-Add more career paths
-Add learning resources for missing skills
-Add personalized learning plans
-Add PDF roadmap generation
-Develop a web version using Django
 
-
-
-Computer Technology Student
+1 .Add more career paths
+2. Add learning resources for missing skills
+3. Add personalized learning plans
+4. Add PDF roadmap generation
+5. Develop a web version using Djang
